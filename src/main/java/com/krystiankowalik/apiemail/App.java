@@ -1,12 +1,12 @@
-package com.krystiankowalik.apiresourceusers;
+package com.krystiankowalik.apiemail;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ResourceServer2Application {
+public class App {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ResourceServer2Application.class, args);
+		SpringApplication.run(App.class, args);
 	}
 }

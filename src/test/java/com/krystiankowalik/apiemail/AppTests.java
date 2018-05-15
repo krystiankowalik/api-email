@@ -1,4 +1,4 @@
-package com.krystiankowalik.apiresourceusers;
+package com.krystiankowalik.apiemail;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class ResourceServer2ApplicationTests {
+public class AppTests {
 
 	@Test
 	public void contextLoads() {
